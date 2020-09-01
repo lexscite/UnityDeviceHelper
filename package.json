@@ -1,0 +1,15 @@
+{
+  "name": "com.lexscite.device-helper",
+  "displayName": "DeviceHelper",
+  "version": "1.0.0",
+  "unity": "2019.3",
+  "description": "Unity plugin for retrieving Facebook Graph API extinfo from Android or iOS device",
+  "keywords": [ "android", "ios", "device", "plugin" ],
+  "category": "plugins",
+  "dependencies": {
+  },
+  "author": {
+    "name": "Lexscite",
+    "email": "lexscite@gmail.com"
+  }
+}
